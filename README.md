@@ -1,4 +1,4 @@
-HuskyCMS module for backend area to manage Store Product Categories
+HuskyCMS module for backend area
 ==================
 
 Module
